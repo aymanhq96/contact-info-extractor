@@ -14,7 +14,7 @@ Este script en Python permite extraer datos relevantes (nombre, número de telé
 
 ## Estructura del proyecto
 
-- `datos_mega_aleatorios.txt`: archivo de entrada con miles de líneas de datos desestructurados (no incluido en este repositorio por su tamaño).
+- `datos_mega_aleatorios.txt`: archivo de entrada con miles de líneas de datos desestructurados (datos ficticios).
 - `clientes_filtrados.csv`: archivo de salida generado con los registros limpios.
 - `parser_clientes.py`: script principal que realiza todo el procesamiento.
 
